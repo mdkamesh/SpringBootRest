@@ -1,4 +1,4 @@
-package com.kamesh.springbootlearnings.SpringRest;
+package com.kamesh.springbootlearnings.HelloWorld.SpringRest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

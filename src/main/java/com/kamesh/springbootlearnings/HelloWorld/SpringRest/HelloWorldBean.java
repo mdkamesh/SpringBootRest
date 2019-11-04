@@ -1,4 +1,4 @@
-package com.kamesh.springbootlearnings.SpringRest;
+package com.kamesh.springbootlearnings.HelloWorld.SpringRest;
 
 public class HelloWorldBean {
 
